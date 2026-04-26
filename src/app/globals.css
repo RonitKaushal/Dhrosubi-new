@@ -307,5 +307,6 @@ button
       break-inside: avoid;
       overflow: hidden;
       cursor: pointer;
+      color: #084200;
   }
 }
